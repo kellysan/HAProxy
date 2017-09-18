@@ -3,3 +3,4 @@
 aaaa\n
 我 爱 北京\n
 ddddd我溜达了
+ooooooo
